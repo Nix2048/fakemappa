@@ -219,3 +219,10 @@ footer p {
 	background-image: url(lazarus.png);
 	background-size: cover;
 }
+#links {
+	color: white;
+}
+#yt-links {
+	color: red;
+}
+
